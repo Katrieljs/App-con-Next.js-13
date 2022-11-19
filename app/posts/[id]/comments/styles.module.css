@@ -1,0 +1,16 @@
+.comment{
+    list-style: none;
+    background-color: #111;
+}
+
+.commentUser{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.listOfComments{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

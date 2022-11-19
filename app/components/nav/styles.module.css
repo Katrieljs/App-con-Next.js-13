@@ -1,0 +1,25 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid #fff;
+    margin-bottom: 30px;
+    list-style: none;
+    padding: 0;
+}
+
+.link{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.linkText{
+    height: 100%;
+    width: 100%;
+}
+
+.link:hover{
+    background-color: #222;
+}
